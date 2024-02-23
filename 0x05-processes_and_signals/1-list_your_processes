@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#This sript file print the current pid
+# this Bash sript file print the current pid
 
 ps -auxf
